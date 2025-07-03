@@ -61,3 +61,16 @@ This work presents a hybrid machine‑learning framework combining deep learning
 - F1‑Score: ~92–93%
 
 ---
+
+## 🙌 Acknowledgements
+- Satellite imagery provided by [Google Earth Engine / Sentinel-2 / Landsat-8]
+- IEEE for accepting our paper
+- Guidance from faculty and mentors at Amrita Vishwa Vidyapeetham
+
+---
+
+## 📬 Contact
+- 📧 Sanju Preetham — [sspreetham35@gmail.com ]
+- 📍 LinkedIn — https://www.linkedin.com/in/sanju-preetham-s-355950234/
+
+---
