@@ -5,7 +5,7 @@
 Official repository for the IEEE conference paper:
 
 **Integrated Framework for Accurate Change Detection and Deforestation Identification in Satellite Imagery**  
-*Prabu M, Simhachalam Sanju Preetham, Devakrishnan TU*  
+ 
 Published March 2024 in the 2024 IEEE International Conference on Contemporary Computing and Communications (InC4), DOI: 10.1109/InC460750.2024.10649388 :contentReference[oaicite:1]{index=1}.
 
 📄 [Published in IEEE Conference 2024 — Click Here to View](#) *(https://ieeexplore.ieee.org/document/10649388)*
